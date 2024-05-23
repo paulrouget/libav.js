@@ -17,3 +17,12 @@
 --enable-libopenh264
 --enable-decoder=libopenh264
 --enable-encoder=libopenh264
+
+--enable-demuxer=mpegts
+--enable-decoder=mp1
+--enable-decoder=mp2
+--enable-decoder=mp3
+--enable-decoder=mp3adu
+--enable-decoder=mp3on4
+--enable-decoder=mpeg1video
+--enable-decoder=mpeg2video
